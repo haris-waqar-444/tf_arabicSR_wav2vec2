@@ -85,7 +85,7 @@ After downloading, organize the data as described above.
 To train the model, run:
 
 ```bash
-python test.py
+python training.py
 ```
 
 The script will:
